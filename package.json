@@ -1,0 +1,13 @@
+{
+  "name": "jsam_ccr",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "add": "node ./app.js"
+  },
+  "keywords": [],
+  "author": "Hessam okati",
+  "ContactUs" : "https://t.me/Programer_Developer",
+  "license": "ISC",
+  "description": "This Library Created For Easy to Make Component and Page "
+}
