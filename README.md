@@ -36,6 +36,10 @@ npm run new
 
 ## Important Notes
 
+- In this version, some problems such as
+No standard script (will be resolved soon)
+Error when page and component folders do not exist (will be resolved soon)
+
 - Ensure that Node.js and npm/yarn are installed on your system.
 - The script navigates into the `jsam_ccr` module and runs the component generation process.
 - If you encounter permission issues, try running the command with administrative privileges.
