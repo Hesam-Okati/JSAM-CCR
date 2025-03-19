@@ -1,7 +1,7 @@
-# JSAM-CCR
+# JSAM-CCR 🚀
 With the help of this plugin, you can effortlessly create components and component pages for your React projects by running a single command.
 
-## Installation
+## Installation 🐱‍💻
 
 You can install the package using either npm or yarn:
 
@@ -12,7 +12,7 @@ npm install -D jsam_ccr
 yarn add jsam_ccr 
 ```
 
-## Usage
+## Usage👨‍💻
 
 1. Add a **new** script to the `package.json` file of your React project.
 2. Insert the following script inside `package.json`:
@@ -34,7 +34,7 @@ npm run new
 4. Enter your component name when prompted (e.g., `Navbar`).
 5. Specify the component type (default: `component`, or choose `page`).
 
-## Important Notes
+## Important Notes📒
 
 - In this version, some problems such as
 No standard script (will be resolved soon)
@@ -48,3 +48,8 @@ This guide ensures clarity and correctness in setting up JSAM-CCR in your React 
 
 **
 If there is any problem, please share it on [Telegram](https:t.me/Progamer_Developer).
+
+
+**
+If you liked this tool and found it useful, please rate ⭐ this repository.
+**
