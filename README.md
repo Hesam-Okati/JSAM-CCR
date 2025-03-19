@@ -46,3 +46,5 @@ Error when page and component folders do not exist (will be resolved soon)
 
 This guide ensures clarity and correctness in setting up JSAM-CCR in your React project.
 
+**
+If there is any problem, please share it on [Telegram](https:t.me/Progamer_Developer).
